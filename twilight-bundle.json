@@ -10,9 +10,9 @@
   "author": {
     "name": "Khaled Alshamrani",
     "email": "fooz1980k@gmail.com",
-    "url": "https://github.com/fooz1980k-sudo/tw-murshid"
+    "url": "https://github.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor"
   },
-  "repository": "https://github.com/fooz1980k-sudo/tw-murshid",
+  "repository": "https://github.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor",
   "components": [
     {
       "title": "مرشد · المستشار الذكي",
@@ -1085,7 +1085,7 @@
         }
       ],
       "key": "e9441602-84b4-53e1-ad1c-95c46334a29c",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid/main/previews/murshid-advisor.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor/main/previews/murshid-advisor.jpg"
     },
     {
       "title": "مرشد · محدد الهدايا",
@@ -2082,7 +2082,7 @@
         }
       ],
       "key": "06ae71b1-2db8-5c80-8a81-5c11a74de91e",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid/main/previews/murshid-gift.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor/main/previews/murshid-gift.jpg"
     },
     {
       "title": "مرشد · مساعد المحادثة",
@@ -3011,7 +3011,7 @@
         }
       ],
       "key": "d14f1635-05ea-5328-97df-c0e4656b5969",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid/main/previews/murshid-chat.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor/main/previews/murshid-chat.jpg"
     },
     {
       "title": "مرشد · مستشار المقاس",
@@ -3902,7 +3902,7 @@
         }
       ],
       "key": "48078c46-60d7-50fa-b796-8f6f100aa67b",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid/main/previews/murshid-size.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor/main/previews/murshid-size.jpg"
     },
     {
       "title": "مرشد · خطتك خطوة بخطوة",
@@ -4726,7 +4726,7 @@
         }
       ],
       "key": "fbfdb5d2-b9cb-591d-bcd1-ece6ad74a559",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid/main/previews/murshid-plan.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-murshid-smart-shopping-advisor/main/previews/murshid-plan.jpg"
     }
   ],
   "author_email": "fooz1980k@gmail.com",

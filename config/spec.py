@@ -45,7 +45,7 @@ plan = dict(title="مرشد · خطتك خطوة بخطوة", icon="sicon-list",
          [{"emoji": "💧", "label": "ترطيب", "desc": "بشرة جافة أو مشدودة"}, {"emoji": "✨", "label": "نضارة", "desc": "إشراقة وتوحيد لون"}, {"emoji": "🌿", "label": "عناية بالشعر", "desc": "تقصف أو جفاف"}], mx=16, item="احتياج"),
     NUM("per_need", "عدد المنتجات لكل احتياج", 2, 1, 5), SW("preselect_first", "اختيار أول احتياج تلقائياً"), SW("show_covers", "إظهار الاحتياجات التي يغطيها كل منتج", True), SW("show_tips", "إظهار النصائح", True),
     TA("empty_text", "نص قبل الاختيار", "", mx=160), T("button", "نص زر الإضافة", "أضف الخطة كاملة للسلة", mx=40)] + SRC("best_selling", 8, 24)[:2] + [SW("hide_oos", "تجاهل النافد", True)] + DESIGN(theme="ivory"))
-build("tw-murshid", {"ar": "مُرشِد — مستشار التسوق الذكي", "en": "Murshid — Smart Shopping Advisor"},
+build("tw-murshid", repo="tw-murshid-smart-shopping-advisor", {"ar": "مُرشِد — مستشار التسوق الذكي", "en": "Murshid — Smart Shopping Advisor"},
       {"ar": "5 مستشارين أذكياء: اختبار يرشّح من منتجاتك ويشرح السبب (ويبني نفسه تلقائياً من أسعار ومبيعات وأقسام متجرك)، محدد هدايا بميزانية وبطاقة إهداء، مساعد محادثة يفهم الميزانية والعروض ويبحث في منتجاتك الفعلية، مستشار مقاس من جدولك، وخطة احتياجات خطوة بخطوة.",
        "en": "5 smart advisors: a quiz that scores your real products and explains why (and builds itself from your prices, sales and categories), a gift finder with budget and gift card, a chat assistant that understands budgets and searches your catalogue, a size advisor from your chart, and a needs-based shopping plan."},
       [adv, gift, chat, size, plan])
